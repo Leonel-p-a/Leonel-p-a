@@ -1,7 +1,7 @@
 <strong><h1>🚀 Sobre Mim</h1></strong>
-Olá! Meu nome é Leonel 😊 Sou um desenvolvedor de software com foco no front-end 💻
+Olá! Meu nome é Leonel 😊 Sou desenvolvedor front-end 💻
 <br>
-Atualmente estou estudando focado em expandir mais meus conhecimentos sobre JavaScript e CSS 🧠
+Estou sempre comprometido com o estudo e desenvolvimento constante, a fim de prover soluções tecnológicas 🧠
 
 As principais tecnologias que trabalho são:
 
